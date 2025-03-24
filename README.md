@@ -66,13 +66,26 @@ This project dives into the dynamic tech job landscape across major U.S. cities 
 
 > *(Make sure these are added to a `/visuals/` folder in your repo)*
 
-1. Employment Type Distribution  
-2. Jobs by Location  
-3. Word Cloud of Job Titles  
-4. Job Titles by Location  
-5. Job Postings in 30/60/90 Day Windows  
-6. Weekly Posting Trends  
-7. Company-wise Job Count by City  
+### 1. Employment Type Distribution
+![Employment Type Distribution](Visuals/Employment_Types.png)
+  
+### 2. Jobs by Location
+![Jobs by Location](Visuals/Jobs_across_Location.png)
+
+### 3. Word Cloud of Job Titles  
+![Word Cloud of Job Titles](Visuals/Word_Occurrences_Job_Title.png)
+
+### 4. Job Titles by Location  
+![Job Titles by Location](Visuals/Job_Title_Basis_Job_Location.png)
+
+### 5. Job Postings in 30/60/90 Day Windows  
+![Job Postings in 30/60/90 Day Windows](Visuals/Job_Posting_Time_Frame.png)
+
+### 6. Weekly Posting Trends 
+![Weekly Posting Trends](Visuals/Job_Posting_Last_Week.png)
+
+### 7. Company-wise Job Count by City 
+![Company-wise Job Count by City](Visuals/Job_Postings_Companies_Location.png)
 
 ---
 
